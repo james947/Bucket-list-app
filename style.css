@@ -5,10 +5,10 @@ body{
     background-position:center;
     background-attachment:fixed;
     height:100%; 
-   
 }
 
-.navbar-inverse .navbar-brand{
+.navbar-inverse .navbar-brand{   
+   
     color:white;
 }
 
