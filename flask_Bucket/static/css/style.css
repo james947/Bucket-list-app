@@ -1,0 +1,43 @@
+body{
+    background:url(../Images/bucket.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-attachment:fixed;
+    height:100%; 
+}
+
+.navbar-inverse .navbar-brand{   
+   
+    color:white;
+}
+
+
+form{
+    background-color:rgba(0, 0, 0, 0.73);
+    padding:40px;
+    padding-bottom:60px;
+    margin-top:150px;
+    color:white;
+    border-radius: 25px;
+}
+.form-control{
+    background-color: rgba(19, 19, 19, 0.49);
+    color:white;
+   
+}
+
+#form-signup{
+    
+    margin-top:100px;
+    background-color:rgba(0, 0, 0, 0.73);
+}
+
+# login-pege p{ color:#ffffff;
+    font-size:30px;
+    text-align: left;
+}
+
+#bucketlist .form-control{
+    background-color:  rgba(19, 18, 18, 0.82);
+}
