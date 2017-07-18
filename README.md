@@ -34,7 +34,8 @@ This are just the ui prototypes of the app. They decribe how the user will be ab
  
  Contributions
  -------------
- -forks are allowed w
+ Anyone can give his/her suggestion by creating a pull request or forking my account
+ 
  Acknowledgements
 ------------------
 -Andela Kenya
