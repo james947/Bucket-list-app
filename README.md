@@ -6,6 +6,7 @@ Created with bootstrap, css and javascript
 About The App
 ---------------
 This are just the ui prototypes of the app. They decribe how the user will be able to create an account, login and perform the following functions:
+
  -Create a new acticity.
  -View the activity created.
  -Update the Activity.
