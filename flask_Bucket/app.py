@@ -8,7 +8,7 @@ app.secret_key= '\x9a\x9fc!\x00\x14\xbf\n\xd6\xfa\xbf\xaf\xb7\xdc]\x0c~\\\x01L\x
 @app.route('/')
 def index():
     return 'hello world'
-#Authenticates the user
+#starts user session
 @app.route('/login', methods=['GET','POST'] )
 def login():
     error = None
